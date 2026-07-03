@@ -2,6 +2,7 @@ class Student {
     String name;
     int age;
 
+    //Function Overloading
     public void printInfo(String name){
         System.out.println(name);
     }
