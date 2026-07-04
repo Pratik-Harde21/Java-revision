@@ -1,5 +1,6 @@
 class Shape {
     String color;
+    public void area
 }
 
 class Triangle extends Shape {
